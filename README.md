@@ -6,6 +6,7 @@ How it works
 ---
 
 * You know a conference or speaking opportunity that can be used to do an F# talk
+* You'll talk somewhere? Write it here!
 * Open a new issue for that concrete conference with name and date
 * Comment on an issue, share ideas, collaborate with others
 
