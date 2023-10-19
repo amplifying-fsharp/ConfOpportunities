@@ -7,12 +7,15 @@ assignees: ''
 
 ---
 
+## Conference facts:
+
 ```
 Name:
 Date: 
-Topic
+Location:
+Topic:
 Link:
-CFP date (from - to)
+CFP date:
 ```
 
 Some things that might be interesting to others:
