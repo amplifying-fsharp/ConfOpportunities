@@ -16,6 +16,11 @@ Goal
 
 The repo has an exploratory character. Whether it is useful remains to be seen. One conceivable goal would be concerted actions to bring F# closer to interested people. These don't necessarily have to be developer conferences. They could be specialist conferences with an IT focus, at which, for example, success stories or interesting F# applications in the specialist domain are explained.
 
+Need Support?
+---
+
+You think about talking at a conference and would like to test it and have a review? Reach out to us!
+
 Ideas?
 ---
 
