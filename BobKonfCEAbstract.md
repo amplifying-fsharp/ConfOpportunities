@@ -44,6 +44,8 @@ Additional Speaker: Ronald
 Additional material:
   - https://amplifying-fsharp.github.io/
 
+Is it worth mentioning that there are two types of CEs, the standard effect ones and custom DSLs?
+
 
 ## Abstract (German)
 
