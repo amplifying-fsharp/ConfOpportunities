@@ -45,7 +45,7 @@ Additional material:
   - https://amplifying-fsharp.github.io/
 
 
-## Abstrac (German)
+## Abstract (German)
 
 Zugegeben: Eine gute Programmiersprache ist typischerweise viel mehr als nur die Summe ihrer einzelnen Features. Und dennoch lohnt sich manchmal der genauere Blick - so wie z.B. auf "Computation Expressions" (CEs) aus F#, mit denen ein Sprachelement existiert, das es schafft, Flexibilität und Einfachheit auf erstaunliche Art und Weise miteinander zu verbinden. Hört sich an wie ein nettes, theoretisches Spielchen? Das sind sie ganz sicher - und viel mehr noch: Ein praktisches und viel verwendetes Konzept in Libraries und im F#-Compiler selbst. Während ähnliche Ideen wie die aus Haskell bekannte "do"-Notation Sprachunterstützung für Monaden bietet, gehen CEs wesentlich weiter, indem sie es ermöglichen, idiomatische Sprachkonstrukte, aber auch Dinge wie die Art der Ausführung, Evaluierung oder der Aufbau von Bindungskontexten für bestimmte Berechnungen selbst zu definieren. Im Vergleich zu alternativen Konzepten wie z.B. Sprachmakros oder CompilerpluginsDabei entstehen dabei jedoch keine "Sprachen in der Sprache", durch die eine gemeinsame "Basis der Verständlichkeit" beteiligter Entwickler erodieren würde. Vielmehr bleibt der ursprüngliche, prinzipielle Charakter aller Sprachkonstrukte aus Sicht des Benutzers weitestgehend erhalten, so dass sich CEs nach Meinung der Autoren im Sweet-Spot zwischen Sprachflexibilität und möglichst schneller Übernahme (adoption) befinden.
 
