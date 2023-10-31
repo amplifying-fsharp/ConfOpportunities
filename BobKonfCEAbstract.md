@@ -33,7 +33,7 @@ In this tutorial we will show
 
 We will give an outlook to possible future extensions to the current CE support of F# and how they could be used for type level programming.
 
-Additional Speaker: Roland
+Additional Speaker: Ronald
 
 3-5 take home ideas:
   -creating a DSL with F# CEs is time well spend in regards to
