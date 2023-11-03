@@ -15,7 +15,7 @@ https://tomasp.net/academic/papers/computation-zoo/computation-zoo.pdf
 
 The following is the discrete content to post to the CFC form:
 
-Proposal title: Computational expressions in F#
+Proposal title: Computation Expressions in F#
 
 Session type: Tutorial (90 minutes)
 
@@ -29,7 +29,7 @@ In this tutorial we will show
 - how to write a CE from scratch
 - what the compiler is doing behind the scenes
 - give real world examples of successful CEs in the industry
-- convey how much fun the can be
+- convey how much fun they can be
 
 We will give an outlook to possible future extensions to the current CE support of F# and how they could be used for type level programming.
 
@@ -59,3 +59,19 @@ Der Vortrag beleuchtet die theoretischen und praktischen Grundlagen von CEs, gib
 Granted: A good programming language is typically much more than just the sum of its individual features. And yet, sometimes it's worth taking a closer look - such as at "Computation Expressions" (CEs) from F#, with which a language element exists that manages to combine flexibility and simplicity in an amazing way. Sound like a nice, theoretical little game? They certainly are - and much more: a practical and much-used concept in libraries and in the F# compiler itself. While similar ideas like the "do" notation known from Haskell provide language support for monads, CEs go much further by allowing to define idiomatic language constructs, but also things like the way of execution, evaluation or the construction of binding contexts for certain computations themselves. Compared to alternative concepts such as language macros or compiler plug-ins, however, this does not create "languages within the language" that would erode a common "basis of intelligibility" among participating developers. Rather, the original, principled character of all language constructs from the user's point of view remains largely intact, so that CEs are, in the speaker's opinion, sit in the sweet spot between versatility and quick and easy adoption.
 
 The talk highlights the theoretical and practical foundations of CEs, gives a brief overview of existing implementations (such as list comprehensions, async/await, SQL-like queries, React-like UIs, "data-as-computation" DSLs), and outlines a possible use through a short live coding session.
+
+
+## Final absract:
+
+Granted: A good programming language is typically much more than just the sum of its individual features.
+And yet, sometimes it's worth taking a closer look: "Computation Expressions" (CEs) from F# are an existing language element that manages to combine flexibility and simplicity in an amazing way.
+
+Sounds like a nice, theoretical little game? They certainly are - and much more: A practical and much-used concept in libraries and in the F# compiler itself. While similar ideas like the "do" notation known from Haskell provide language support for monads, CEs go much further. They allow to reinterpret idiomatic language constructs and give room to control the execution and evaluation for distinct computations themselves. 
+
+Compared to alternative concepts such as language macros or compiler plug-ins, CEs do not create "languages within the language" which tend to erode a common "basis of intelligibility" among participating developers. Rather, the original, intentional character of all language constructs from the user's point of view remains untouched. Hence CEs are a powerful tool that lives in the sweet spot between versatility and quick and easy adoption.
+
+In this tutorial we will show
+- how to write a CE from scratch
+- what the compiler is doing behind the scenes
+- how real world examples work successfully in the industry
+- how much fun they can be
